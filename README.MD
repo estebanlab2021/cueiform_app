@@ -70,7 +70,7 @@ streamlit run main.py
 ## 🌐 Versión en línea
 
 El proyecto lo puedes visualizar en el siguiente link:
-👉 [Enlace al dashboard en Streamlit Cloud](https://cueiformapp-esteban2021.streamlit.app/)
+👉 [Enlace en Streamlit Cloud](https://cueiformapp-esteban2021.streamlit.app/)
 
 ---
 
