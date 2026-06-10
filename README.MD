@@ -4,7 +4,7 @@
 
 El sistema permite procesar archivos masivos de datos (ficheros Excel) de forma automatizada, aplicando modelos matemáticos previamente validados y estandarizados según parámetros poblacionales de entrenamiento.
 
-El detalle de los cálculos así como los modelos utilizados está detallado en el artículo: "**Sexual dimorphism in the cuneiform bones from a Chilean subactual osteological series**" (Alvarez, Isabela; Saldías, Eduardo; Arroyo, Esteban; Retamal, Rodrigo).
+El detalle de los cálculos así como los modelos utilizados se encuentra en el artículo: "**Sexual dimorphism in the cuneiform bones from a Chilean subactual osteological series**" (Alvarez, Isabela; Saldías, Eduardo; Arroyo, Esteban; Retamal, Rodrigo).
 
 
 ---
