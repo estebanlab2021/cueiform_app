@@ -4,7 +4,7 @@
 
 El sistema permite procesar archivos masivos de datos (ficheros Excel) de forma automatizada, aplicando modelos matemáticos previamente validados y estandarizados según parámetros poblacionales de entrenamiento.
 
-Realizado por: **Esteban Arroyo**
+
 
 ---
 
